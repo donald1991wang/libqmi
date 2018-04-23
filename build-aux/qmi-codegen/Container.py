@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- Mode: python; tab-width: 4; indent-tabs-mode: nil -*-
 #
 # This program is free software; you can redistribute it and/or modify it under
